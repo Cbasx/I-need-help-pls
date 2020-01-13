@@ -18,3 +18,4 @@ public class spawner : MonoBehaviour {
 		}
 	}
 }
+// I want to create an object when I press the letter "E" but I don't know how, please help me
